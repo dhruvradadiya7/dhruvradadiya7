@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @dhruvradadiya7
-- 🌱 I’m currently learning python
 - 📫 How to reach me dhruvradadiya7@gmail.com
 
 <!---
